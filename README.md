@@ -1,5 +1,5 @@
 # Ex.08 Design of a Standard Calculator
-## Date:05/05/2024
+## Date:
 
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
